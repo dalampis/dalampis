@@ -1,0 +1,15 @@
+- 👋 Hi, I’m Panagiotis Dalampis, i am 30 years old and i live in Thessaloniki. I am an officer at NRDC-GR(NATO Rapid Deployable Corps-Greece) Headquarter. 
+- 👀 I specialize in Data Analytics and i ’m interested in Data Science field.
+- 🌱 I’m currently studing on a full stack Python Developer Course with the Workearly online learning platfom powered by Reatcode Group.
+- 💞️ I’m looking to collaborate with someone or some group on data science projects in order to contribute positively to these project and gain as much experience as possible throught them.
+- 📫 You can contact me via:
+- email: panagiwtisdal@gmail.com
+- phone: 6984082857
+- github: https://github.com/dalampis
+- instagram: panagiwtis_dalampis
+- 😄 Pronouns: Panos
+
+<!---
+dalampis/dalampis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
